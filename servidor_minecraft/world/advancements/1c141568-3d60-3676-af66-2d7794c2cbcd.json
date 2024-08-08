@@ -1,0 +1,69 @@
+{
+  "repurposed_structures:root": {
+    "criteria": {
+      "always": "2024-07-23 22:06:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/crafting_table": {
+    "criteria": {
+      "unlock_right_away": "2024-07-23 22:06:58 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/root": {
+    "criteria": {
+      "tick": "2024-07-23 22:06:58 +0000"
+    },
+    "done": true
+  },
+  "dungeons_arise:wda_root": {
+    "criteria": {
+      "WDA": "2024-07-23 22:06:58 +0000"
+    },
+    "done": true
+  },
+  "born_in_chaos_v1:bornin_chaos": {
+    "criteria": {
+      "bornin_chaos_0": "2024-07-23 22:06:58 +0000"
+    },
+    "done": true
+  },
+  "organics:organics": {
+    "criteria": {
+      "organics": "2024-07-23 22:06:58 +0000"
+    },
+    "done": true
+  },
+  "overworld_netherite_ore:overworld_netherite": {
+    "criteria": {
+      "overworld_netherite_0": "2024-07-23 22:06:58 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/root": {
+    "criteria": {
+      "auto": "2024-07-23 22:06:59 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:parent": {
+    "criteria": {
+      "load_in_world": "2024-07-23 22:06:59 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:regions_explored": {
+    "criteria": {
+      "eucalyptus_forest": "2024-07-23 22:06:59 +0000"
+    },
+    "done": false
+  },
+  "regions_unexplored:pioneer": {
+    "criteria": {
+      "eucalyptus_forest": "2024-07-23 22:06:59 +0000"
+    },
+    "done": false
+  },
+  "DataVersion": 3465
+}
